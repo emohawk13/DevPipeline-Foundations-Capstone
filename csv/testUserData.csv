@@ -1,0 +1,16 @@
+user_id,username,password,first_name,last_name,is_active,is_admin,date_created
+6,user1,password1,John,Doe,1,0,2023-01-01 12:00:00
+7,user2,password2,Jane,Doe,1,0,2023-01-02 12:30:00
+8,user3,password3,Alice,Smith,1,0,2023-01-03 13:00:00
+9,user4,password4,Bob,Johnson,1,0,2023-01-04 14:00:00
+10,user5,password5,Charlie,Brown,1,0,2023-01-05 15:00:00
+11,user6,password6,Eva,Green,1,0,2023-01-06 16:00:00
+12,user7,password7,Frank,White,1,0,2023-01-07 17:00:00
+13,user8,password8,Grace,Miller,1,0,2023-01-08 18:00:00
+14,user9,password9,Henry,Clark,1,0,2023-01-09 19:00:00
+15,user10,password10,Ivy,Woods,1,0,2023-01-10 20:00:00
+16,admin1,adminpass1,Admin,One,1,1,2023-01-11 21:00:00
+17,admin2,adminpass2,Admin,Two,1,1,2023-01-12 22:00:00
+18,admin3,adminpass3,Admin,Three,1,1,2023-01-13 23:00:00
+19,admin4,adminpass4,Admin,Four,1,1,2023-01-14 00:00:00
+20,admin5,adminpass5,Admin,Five,1,1,2023-01-15 01:00:00
